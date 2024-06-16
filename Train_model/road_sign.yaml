@@ -1,0 +1,9 @@
+name:
+- Traffic_light
+- Speedlimit
+- Crosswalk
+- Stop
+nc: 4
+test: C:/project/object_detection_road/road_sign/road_sign_detection/test
+train: C:/project/object_detection_road/road_sign/road_sign_detection/train
+val: C:/project/object_detection_road/road_sign/road_sign_detection/val
